@@ -4,6 +4,17 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/security-center?activeTab=versions
 
+## [2.0.0](https://www.github.com/googleapis/nodejs-security-center/compare/v1.0.0...v2.0.0) (2019-07-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* adds findingSecurityMarksPathTemplate  (#122)
+
+### Features
+
+* adds findingSecurityMarksPathTemplate  ([#122](https://www.github.com/googleapis/nodejs-security-center/issues/122)) ([3070f29](https://www.github.com/googleapis/nodejs-security-center/commit/3070f29))
+
 ## [1.0.0](https://www.github.com/googleapis/nodejs-security-center/compare/v0.3.0...v1.0.0) (2019-07-02)
 
 
